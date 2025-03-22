@@ -415,7 +415,6 @@ usx.edu.cn
 meduca.edu.pa
 social.helwan.edu.eg
 alumni.uci.edu
-univ-dbkm.dz
 mail.rmutt.ac.th
 lsts.edu.vn
 ucass.edu.cn
@@ -678,3 +677,13 @@ universityofmanagement.sn
 sbjacksonville.com
 foundationuniversity.com
 students.sdcsc.k12.in.us
+xzc.edu.pl
+ea.ufpa.br
+iced.ufpa.br
+stu.sxpi.edu.cn
+mus.edu.rs
+ipp.cl
+bkc.edu.vn
+hungyen.itrithuc.vn
+ntpc.ufpa.br
+ics.ufpa.br

@@ -73,7 +73,7 @@ student.concordia.ab.ca
 unb.ca
 uregina.ca
 workschool.ca
-yrdsb.ca
+gapps.yrdsb.ca
 unilu.ac.cd
 cf
 fh-htachur.ch
@@ -1060,7 +1060,6 @@ student.riphah.edu.pk
 students.fui.edu.pk
 students.uettaxila.edu.pk
 uaf.edu.pk
-ucp.edu.pk
 uet.edu.pk
 uoh.edu.pk
 web.gcu.edu.pk
@@ -1379,3 +1378,15 @@ uacj.mx
 stu.ocsb.ca
 um5.ac.ma
 fmu.edu.br
+wellesley.edu
+york.edu
+std.antalya.edu.tr
+student.hywoman.ac.kr
+yapenhasbekasi.sch.id
+cibertec.edu.pe
+singimail.rs
+edu.hanbat.ac.kr
+harding.edu
+ufpa.br
+kmutt.ac.th
+univ-dbkm.dz
